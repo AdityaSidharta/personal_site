@@ -1,0 +1,36 @@
+# Site settings
+title: Aditya Sidharta
+email: adityasidharta@u.nus.edu
+url: https://adityasidharta.github.io
+description: Aspiring Data Scientist, Statistics student in National University of Singapore.
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Aditya Sidharta
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/AdityaSidharta
+  - title: linkedin
+    url: https://www.linkedin.com/in/adityasidharta/
+  - title: github
+    url: https://github.com/AdityaSidharta
+
+# Timeline
+events:
+  - image: "/img/timeline/spidertocat.png"
+    date: "September 2013 - Today"
+    description: "Saving the neighborhood!"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2007 - August 2013"
+    description: "Started coding"
+timeline-img: "/img/timeline/default.png"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
