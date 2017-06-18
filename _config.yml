@@ -3,7 +3,7 @@ title: Aditya Sidharta
 email: adityasidharta@u.nus.edu
 url: https://adityasidharta.github.io
 description: Aspiring Data Scientist, Statistics student in National University of Singapore.
-baseurl: "adityasidharta.github.io"
+baseurl: "/adityasidharta.github.io"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
