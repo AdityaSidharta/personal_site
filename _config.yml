@@ -22,16 +22,6 @@ social:
   - title: github
     url: https://github.com/AdityaSidharta
 
-# Timeline
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-timeline-img: "/img/timeline/default.png"
-
 # Build settings
 markdown: kramdown
 permalink: pretty
